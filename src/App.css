@@ -1,0 +1,27 @@
+form {
+  margin: 20px;
+}
+
+form input {
+  display: block;
+  margin: 10px 0;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+ul li {
+  margin: 10px 0;
+}
+
+img {
+  max-width: 200px;
+  height: auto;
+  display: block;
+}
+
+button {
+  margin-top: 10px;
+}
